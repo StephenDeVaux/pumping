@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+config
+.DS_Store
+dump.rdb
+d_temp/*
+!d_temp/.gitkeep

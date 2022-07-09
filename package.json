@@ -1,0 +1,27 @@
+{
+  "name": "pumping",
+  "version": "1.0.0",
+  "description": "app for a few things",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node src/index.ts",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenDeVaux/pumping.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenDeVaux/pumping/issues"
+  },
+  "homepage": "https://github.com/StephenDeVaux/pumping#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
