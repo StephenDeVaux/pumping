@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/StephenDeVaux/pumping#readme",
   "devDependencies": {
-    "nodemon": "^2.0.19",
+    "nodemon": "^2.0.19"
   },
   "dependencies": {
     "@tsconfig/node16": "^1.0.3",
