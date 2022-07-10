@@ -5,3 +5,4 @@ config
 dump.rdb
 d_temp/*
 !d_temp/.gitkeep
+build
